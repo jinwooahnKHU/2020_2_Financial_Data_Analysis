@@ -9,7 +9,7 @@
 + 미국 시장에 투자하고 싶은 고객에게, 감성분석을 통해 해당 유니버스 내에서 긍정적인 기사의 비율이 높은 회사를 선택하여 동등한 risk를 가지도록 포트폴리오를 구성해준다.
 
 ![riskparity](https://user-images.githubusercontent.com/48755376/156698197-2363924f-acac-49e9-9fad-2ef6a59c1b84.png)
-<img src ="https://user-images.githubusercontent.com/48755376/156698197-2363924f-acac-49e9-9fad-2ef6a59c1b84.png" width = "400" height = "400">
+<img src ="https://user-images.githubusercontent.com/48755376/156698197-2363924f-acac-49e9-9fad-2ef6a59c1b84.png" width = "700" height = "600">
 
 
 ### 포트폴리오 전략
