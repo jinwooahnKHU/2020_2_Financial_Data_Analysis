@@ -29,6 +29,8 @@
 
 + 포트폴리오를 구성하는 자산들의 리스크를 동등하게 구성
 
+<img width="383" alt="risk" src="https://user-images.githubusercontent.com/48755376/156698734-2408ae15-38e0-4e5e-bc52-877c37014ce0.png">
+
 
 
 ### 백테스트
