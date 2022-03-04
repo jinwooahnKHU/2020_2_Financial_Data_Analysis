@@ -29,6 +29,7 @@
 
 + 포트폴리오를 구성하는 자산들의 리스크를 동등하게 구성
 
+```math
 $Objective(w) = \sum^N_i (RC_i - w_{target} * \sigma_p)^2$
 
 $min_w  Objective(w)$
@@ -39,6 +40,11 @@ $w_i \geqq 1 \space (i = 1,2,3...N)$
 $RC_i$ : 자산 i의 risk contribution
 
 $RC_i = \sigma_i(w) = w_i * {\partial \sigma_p \over \partial \sigma_i} = {w_i (\sum w)_i \over \sqrt{w^{'} \sum w}}$
+```
+
+```math
+SE = \frac{\sigma}{\sqrt{n}}
+```
 
 ### 백테스트
 
